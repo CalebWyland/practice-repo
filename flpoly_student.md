@@ -1,27 +1,29 @@
 ## Caleb Wyland
 
-### Term Year 
+### Fall 23' 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Accounting for Managers 
 
-- Course 2
+- Engineering and Technology Project Management
 
-- Course 3
+- Foundations of Data Analytics
 
-- Course 4
+- Intro to Operations and Supply Chain Management
+
+- Statistics 2
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Basketball (I am the coach here at FL Poly)
 
-- Thing 2
+- Football
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Not to be repetetive, but fantasy football. I am in too many leagues to count. Find my favorite site to use here: <https://sleeper.com/leagues/create>
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/09/05
