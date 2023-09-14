@@ -26,4 +26,12 @@ I am _passionate about_:
 
 ***
 
+| Prefix | Number | Name | Credits |
+| :------|--------|------|---------| :--------------------------------- |
+|**ACG** | **2020** | _Accounting for Managers_ | 3 |
+|**EGS** | **3625** | _Engineering and Tech Project Managment_ | 3 |
+|**COP** | **2073** | _Foundations of Data Analytics_ | 3 |
+|**MAN** | **3504** | _Intro to Operations and Supply Chain Management_ | 3 |
+|**STA** | **3036** | _Statistics 2_ | 3 |
+
 > Last modified: 2023/09/05
